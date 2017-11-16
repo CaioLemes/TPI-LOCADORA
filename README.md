@@ -1,9 +1,9 @@
-# TPI-LOCADORA
+# TPI-LOCADORA <br>
 
 
-INTEGRANTES: 
-Artur Pelegrino
-Bruno Rodrigues
-Caio Lemes
-Luis Miguel
-Wellington César
+INTEGRANTES: <br>
+Artur Pelegrino <br>
+Bruno Rodrigues <br>
+Caio Lemes <br>
+Luis Miguel <br>
+Wellington César <br>
