@@ -1,4 +1,14 @@
-# TPI-LOCADORA <br>
+# TPI-LOCADORA <br><br><br>
+
+
+DATAS DE ENTREGAS:<br>
+
+16/11 -> HTML/CSS <br>
+23/11 -> Insert/Updates <br>
+30/11 -> Select/Deletes <br>
+07/12 -> Apresentações <br><br><br>
+
+
 
 
 INTEGRANTES: <br>
